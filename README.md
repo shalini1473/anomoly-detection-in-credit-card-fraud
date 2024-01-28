@@ -31,7 +31,8 @@ Install the required dependencies mentioned in the requirements.txt file.
 Open and run the Jupyter Notebooks or Python scripts to explore the analysis and results.
 
 
-Disclaimer
+Disclaimer:
+
 This project is for educational and analytical purposes only. It does not endorse any specific financial or security practices.
 
 Contributing
