@@ -4,7 +4,7 @@ OVERVIEW
 
 Welcome to my Credit Card Fraud Anomaly Detection project! This project is one of my initial ventures into the field of data science. The goal is to identify fraudulent transactions among credit card transactions made by European cardholders in September 2013. The dataset is highly unbalanced, with frauds accounting for only 0.172% of all transactions.
 
-DATASET
+DATASET:
 
 The dataset contains transactions over two days, totaling 284,807 transactions, with 492 frauds. Unfortunately, due to confidentiality issues, the original features and background information about the data cannot be provided. The features 'V1' through 'V28' are principal components obtained with PCA, while 'Time' and 'Amount' are the only features not transformed. 'Time' represents the seconds elapsed between each transaction and the first transaction in the dataset, and 'Amount' is the transaction amount. The 'Class' feature is the response variable, taking the value 1 in case of fraud and 0 otherwise.
 
