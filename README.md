@@ -35,5 +35,4 @@ DISCLAIMER:
 
 This project is for educational and analytical purposes only. It does not endorse any specific financial or security practices.
 
-Contributing
 Contributions and feedback are welcome! If you have suggestions, improvements, or want to add new features, feel free to fork the repository and submit a pull request.
