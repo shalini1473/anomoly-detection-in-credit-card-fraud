@@ -1,6 +1,5 @@
 CREDIT CARD FRAUD ANOMALY DETECTION
 
-
 OVERVIEW
 Welcome to my Credit Card Fraud Anomaly Detection project! This project is one of my initial ventures into the field of data science. The goal is to identify fraudulent transactions among credit card transactions made by European cardholders in September 2013. The dataset is highly unbalanced, with frauds accounting for only 0.172% of all transactions.
 
